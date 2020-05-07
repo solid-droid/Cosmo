@@ -6,7 +6,7 @@
 Plans:  
 --
 Basic Shape Models(voxel like)  
-Code Based Animation (repeating functions based)  
+Procedural Animation (repeating functions based)  
 What u do in the game stay in the game (Game Memory)  
 p2p (webRTC)  
 
