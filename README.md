@@ -1,5 +1,5 @@
 # Cosmo.GAME
-:diamonds:UnderDevelopment:diamonds:    
+:diamonds:UnderDevelopment:diamonds: (Probably Need RTX graphics card to run smoothly... sorry)..     
 **ThreeJS**   -> *WebGL Rendering*  
 **CannonJS**  -> *3D Physics Engine*  
 
